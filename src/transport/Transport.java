@@ -68,6 +68,5 @@ public abstract class Transport {
         return "Марка " + brand +
                 ", модель " + model +
                 ", объем двигателя — " + engineVolume;
-
     }
 }
